@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APIConstructor, ampExtension){
+define(['pipAPI', 'https://cp0131ks.github.io/study4_2/qamp.js'], function(APIConstructor, ampExtension){
 
 	var API = new APIConstructor();
 	
@@ -22,7 +22,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'A1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				       {word : 'A型は真面目だ'}				
+				       {word : 'A型  真面目だ'}				
                   
 				]
 
@@ -32,7 +32,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'A2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : 'A型は几帳面だ'}				
+					{word : 'A型  几帳面'}				
                   
 				]
 
@@ -42,7 +42,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'A3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'A型は努力家だ'}
+					{word : 'A型  努力家'}
 
 				]
 
@@ -52,7 +52,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'A4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'A型はストイックだ'}					
+					{word : 'A型 ストイック'}					
                   
 				]
 
@@ -72,7 +72,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'O1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'O型は優しい'}					
+					{word : 'O型  優しい'}					
                   
 				]
 
@@ -82,7 +82,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'O2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'O型は社交的だ'}					
+					{word : 'O型  社交的'}					
                   
 				]
 
@@ -92,7 +92,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'O3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'O型は穏やかだ'}					
+					{word : 'O型  穏やか'}					
                   
 				]
 
@@ -102,7 +102,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'O4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'O型はおおらかだ'}					
+					{word : 'O型  おおらか'}					
                   
 				]
 
@@ -122,7 +122,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'B1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'B型は自己中心的だ'}					
+					{word : 'B型  自己中心的'}					
                   
 				]
 
@@ -132,7 +132,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'B2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'B型はマイペースだ'}					
+					{word : 'B型  マイペース'}					
                   
 				]
 
@@ -142,7 +142,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'B3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : 'B型は大雑把だ'}
+				    {word : 'B型  大雑把'}
 				]
 			},
 			{
@@ -150,7 +150,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'B4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : 'B型は我が道を進む'}
+					{word : 'B型  我が道を進む'}
 				]
 			},
 			{
@@ -166,7 +166,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'AB1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'AB型は天才肌だ'}
+					{word : 'AB型  天才肌'}
 				]
 			},
 			{
@@ -174,7 +174,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'AB2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'AB型は不思議ちゃんだ'}
+					{word : 'AB型  不思議ちゃん'}
 				]
 			},
 			{
@@ -182,7 +182,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'AB3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'AB型は二重人格だ'}
+					{word : 'AB型  二重人格'}
 				]
 			},
 			{
@@ -190,7 +190,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'AB4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : 'AB型は裏表がある'}
+					{word : 'AB型  裏表がある'}
 				]
 			},
 			
@@ -199,7 +199,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : 'こたつは暖房器具だ'}
+				    {word : 'こたつ  暖房器具'}
 				]
 			},
 			{
@@ -207,7 +207,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '消しゴムは文房具だ'}
+					{word : '消しゴム  文房具'}
 				]
 			},
 			{
@@ -215,7 +215,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '車は移動手段だ'}
+					{word : '車  移動手段'}
 				]
 			},
 			{
@@ -223,7 +223,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '車にはタイヤがある'}
+					{word : '車  タイヤ'}
 				]
 			},
 			{
@@ -231,7 +231,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_5', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'ドーナツは甘い'}
+					{word : 'ドーナツ  甘い'}
 				]
 			},
 			{
@@ -239,7 +239,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_6', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : 'こたつは冬の定番だ'}
+					{word : 'こたつ  冬の定番'}
 				]
 			},
 			{
@@ -247,28 +247,28 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				nameForLogging : 'Neutral_7', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'こたつは冬に使う'}
+					{word : 'こたつ  冬'}
 				]
 			},
 			{	nameForFeedback : 'Neutral_8',  //Will be use
 				nameForLogging : 'Neutral_8', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'ドーナツはお菓子だ'}
+					{word : 'ドーナツ  お菓子'}
 				]
 			},
 			{	nameForFeedback : 'Neutral_9',  //Will be use
 				nameForLogging : 'Neutral_9', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '川の水は冷たい'}
+					{word : '川の水  冷たい'}
 				]
 			},
 			{	nameForFeedback : 'Neutral_10',  //Will be use
 				nameForLogging : 'Neutral_10', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : 'ドーナツはおやつだ'}
+					{word : 'ドーナツ  おやつ'}
 				]
 			},
 			
@@ -279,7 +279,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{word : '傘が開いている'}, {word : 'ランプが光っている'}, {word : '茶色のイスがある'}]
+			mediaArray : [{word : '雨　傘'}, {word : 'ランプ  光'}, {word : 'イス  机'}]
 		},
 		targetCats :  [
 			{
