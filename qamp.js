@@ -131,7 +131,7 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			
 			//Instructions text for the 2-responses version.
 			exampleBlockInst: '<div><p style="font-size:20px; text-align:left; margin-left:10px; font-family:arial"><color="000000"><br/>' + 
-			'まず，文章が呈示され，次に図形が呈示されるので文章は無視して図形がどちらかというと視覚的にrightAttribute場合は，<B>rightKey</B>を押してください。 ' + 
+			'文章が呈示され，次に図形が呈示されるので文章は無視して図形がどちらかというと視覚的にrightAttribute場合は，<B>rightKey</B>を押してください。 ' + 
 			'また，呈示される図形が視覚的にleftAttribute場合は<b>leftKey</b> を押してください。<br/><br/>' + 
 			'文章は素早く現れて，すぐに消えます。  ' + 
 			'targetCatの前に呈示される文章は無視し， targetCatのみを評価することを忘れないでください。<br/><br/></p>'  + 
