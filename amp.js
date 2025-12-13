@@ -38,6 +38,26 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_2/qamp.js'], function(APICo
 
 			}, 
 			{
+				nameForFeedback : 'prime_A1',  //Will be used in the user feedback 
+				nameForLogging : 'prime_A1', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'A型　良い'}				
+                  
+				]
+
+			}, 
+			{
+				nameForFeedback : 'prime_A2',  //Will be used in the user feedback 
+				nameForLogging : 'prime_A2', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'A型　悪い'}				
+                  
+				]
+
+			}, 
+			{
 				nameForFeedback : 'O1',  //Will be used in the user feedback 
 				nameForLogging : 'O1', //Will be used in the logging
 				//An array of all media objects for this category.
@@ -63,6 +83,26 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_2/qamp.js'], function(APICo
 				//An array of all media objects for this category.
 				mediaArray : [
 					{word : 'O型　穏やか'}					
+                  
+				]
+
+			}, 
+			{
+				nameForFeedback : 'prime_O1',  //Will be used in the user feedback 
+				nameForLogging : 'prime_O1', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'O型　良い'}				
+                  
+				]
+
+			}, 
+			{
+				nameForFeedback : 'prime_O2',  //Will be used in the user feedback 
+				nameForLogging : 'prime_O2', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'O型　悪い'}				
                   
 				]
 
@@ -95,6 +135,26 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_2/qamp.js'], function(APICo
 				    {word : 'B型　個性的'}
 				]
 			},
+			{
+				nameForFeedback : 'prime_B1',  //Will be used in the user feedback 
+				nameForLogging : 'prime_B1', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'B型　良い'}				
+                  
+				]
+
+			}, 
+			{
+				nameForFeedback : 'prime_B2',  //Will be used in the user feedback 
+				nameForLogging : 'prime_B2', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'B型　悪い'}				
+                  
+				]
+
+			}, 
 			
 			{
 				nameForFeedback : 'AB1',  //Will be used in the user feedback 
@@ -120,6 +180,26 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_2/qamp.js'], function(APICo
 					{word : 'AB型　不思議ちゃん'}
 				]
 			},
+			{
+				nameForFeedback : 'prime_AB1',  //Will be used in the user feedback 
+				nameForLogging : 'prime_AB1', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'AB型　良い'}				
+                  
+				]
+
+			}, 
+			{
+				nameForFeedback : 'prime_AB2',  //Will be used in the user feedback 
+				nameForLogging : 'prime_AB2', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'AB型　悪い'}				
+                  
+				]
+
+			}, 
 			
 			{
 				nameForFeedback : 'Neutral_1',  //Will be used in the user feedback 
